@@ -1,4 +1,0 @@
-label main:
-    PRINT 'HELLO-NORTH' LB
-    EXIT
-end
