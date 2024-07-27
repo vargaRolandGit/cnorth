@@ -1,0 +1,21 @@
+label ODD:
+    PRINT 'odd'
+    EXIT
+end
+
+label LOOP:
+    PRINT 'LOOP_RUNNING'
+    PUSH 2
+    SUB
+    IF ODD
+    RUN LOOP
+end
+
+label main:
+    INPUT
+    PUSH 1
+    ADD
+    RUN LOOP
+    IF ODD
+    PRINT 'even'
+end
