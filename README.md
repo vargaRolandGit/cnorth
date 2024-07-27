@@ -3,7 +3,7 @@
   <img src="logo.png" alt="Sublime's custom image" width="200"/>
 </p>
 
-## 📚 North (C version) is a really basic stack based programming language writen in c. Inspired by forth, porth, asm and SQL!
+## 📚 North (C version) is a really basic stack based programming language written in c. Inspired by forth, porth, asm and SQL!
 ### This was my first somewhat bigger project in c. I have to learn a lot more i feel, but nonetheless north was a good experience to make (sometimes) and i will continue working on the c version of it.
 
 Version: **BETA0.2**
