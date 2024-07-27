@@ -4,11 +4,11 @@
 </p>
 
 ## 📚 North (C version) is a really basic stack based programming language written in c. Inspired by forth, porth, asm and SQL!
-### This was my first somewhat bigger project in c. I have to learn a lot more i feel, but nonetheless north was a good experience to make (sometimes) and i will continue working on the c version of it.
+### This was my first somewhat bigger project in c. I have to learn a lot more I feel, but nonetheless north was a good experience to make (sometimes) and i will continue working on the c version of it.
 
 Version: **BETA0.2**
 
-> 📌 I'm working on __*north+*__, therefor this project currently on hiatus!
+> 📌 I'm working on __*north+*__, therefore this project currently on hiatus!
 
 - [x] Turing complete
 - [ ] Optimalized code
