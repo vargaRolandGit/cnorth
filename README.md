@@ -3,8 +3,8 @@
   <img src="logo.png" alt="Sublime's custom image" width="200"/>
 </p>
 
-## 📚 North (C version) is a really basic stack based programming language written in c. Inspired by forth, porth, asm and SQL!
-### This was my first somewhat bigger project in c. I have to learn a lot more I feel, but nonetheless north was a good experience to make (sometimes) and i will continue working on the c version of it.
+## 📚 North (C version) is a very basic, stack based programming language written in c. Inspired by forth, porth, asm and SQL!
+### This was my first somewhat bigger project in c. I have to learn a lot more, but nonetheless north was a good experience to make (sometimes) and i will continue working on the c version of it.
 
 Version: **BETA0.2**
 
@@ -13,7 +13,7 @@ Version: **BETA0.2**
 - [x] Turing complete
 - [ ] Optimalized code
 - [ ] Error Handling
-- [ ] Working strings 🔴 strings currently can't have spaces 'couse of the primitive lexer.
+- [ ] Working strings 🔴 strings currently can't have spaces because of the primitive lexer.
 
 ## Features & Syntax
 - Entry point, and basic operations
